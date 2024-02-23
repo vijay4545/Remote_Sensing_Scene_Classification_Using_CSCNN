@@ -20,3 +20,8 @@ Once the sparse representations are obtained, they are fed into a classification
 The CSCNN model is trained using labeled training data, and its performance is evaluated on a separate validation or testing set. Common evaluation metrics include accuracy, precision, recall, and F1-score.
 
 The advantage of using CSCNN for remote sensing scene classification is that it can automatically learn discriminative features directly from the input data, without the need for manual feature engineering. This often results in more accurate classification results, especially when dealing with large and complex datasets. Additionally, CSCNN models can be trained end-to-end, allowing for easier optimization and tuning of the entire network architecture.
+# RESULTS:
+CNN : 91%
+AlexNet: 89%
+VGG16 : 90%
+
